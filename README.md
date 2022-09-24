@@ -1,6 +1,3 @@
 # exemplo
 exemplo
-exemplo
-exemplo
-exemplo
-exemplo
+<br/>
